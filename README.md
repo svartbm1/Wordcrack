@@ -1,5 +1,5 @@
 # Wordcrack
-Infosec exercise
+InfoSec exercise
 
 On my InfoSec course we acquired some password hashes and usernames through an exercise. 
 As a bonus exercise that round we were tasked with finding out 10 of the passwords. I 
